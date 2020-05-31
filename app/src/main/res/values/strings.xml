@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS 180030904 1</string>
+    <string name="id_gitar">ID Gitar</string>
+    <string name="nama">Nama Gitar</string>
+    <string name="tgl">Tanggal Pembuatan</string>
+    <string name="gambar">Ilustrasi Gambar</string>
+    <string name="caption">Caption Gambar</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="link">Link</string>
+    <string name="tambah">Tambah Gitar</string>
+    <string name="edit">Edit Gitar</string>
+    <string name="hapus">Hapus Gitar</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_gitar">Data Gitar</string>
+    <string name="pilih_tgl">Pilih</string>
+</resources>
